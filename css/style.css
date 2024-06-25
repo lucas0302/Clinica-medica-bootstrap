@@ -1,0 +1,26 @@
+.backgroundcolor{
+    background-color: #2a4866;
+}
+.title{
+    font-size: 92px;
+}
+.subtitle{
+    font-size: 42px;
+}
+.titleTable{
+    font-size: 80px;
+    font-weight: 500;
+}
+.espacamento{
+    gap: 60px;
+}
+.gaptitle{
+    gap: 140px;
+}
+.imglogoo{
+    width:170px;
+     height:100px;   
+}
+.marginlinks{
+    margin-top: 20px;
+}
